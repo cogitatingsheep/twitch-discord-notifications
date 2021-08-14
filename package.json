@@ -1,0 +1,24 @@
+{
+  "name": "glitch-node-bot",
+  "version": "0.0.1",
+  "description": "A simple Node app to send twitch notifications to discord webhook.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/workable-plum-starburst"
+  },
+  "license": "MIT",
+  "keywords": [
+    "discord",
+    "twitch",
+    "notification"
+  ]
+}
