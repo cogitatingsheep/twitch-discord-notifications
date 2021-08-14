@@ -146,4 +146,4 @@ setInterval(() => {
       clientSecret +
       "&grant_type=client_credentials"
   );
-}, 10000);
+}, 60000);
